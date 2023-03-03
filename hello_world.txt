@@ -1,0 +1,3 @@
+# learning git
+My First GitHub repo
+Hello Odin!
